@@ -1,8 +1,6 @@
-<p align="center">
-  <img height="170em" width:"100em" src="https://github-readme-stats.vercel.app/api?username=an-773&show_icons=true&hide_border=true&theme=midnight-purple&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=an-773&theme=midnight-purple&hide_border=true&layout=compact"/>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=an-773&include_all_commits=true&hide_border=true&theme=midnight-purple"/>
-</p>
+Started coding since the age of 15
+Fullstack / Mobile apps developer
+
 <!--
 **AN-773/an-773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
