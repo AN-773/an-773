@@ -1,5 +1,5 @@
-Started coding since the age of 15
-Fullstack / Mobile apps developer
+### Started coding since the age of 15
+### Fullstack / Mobile apps developer
 
 <!--
 **AN-773/an-773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
