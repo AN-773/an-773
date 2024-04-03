@@ -1,4 +1,3 @@
-### Started coding since the age of 15
 ### Fullstack / Mobile apps developer
 
 <!--
